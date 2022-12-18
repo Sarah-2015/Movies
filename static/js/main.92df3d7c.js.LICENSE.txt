@@ -4,16 +4,6 @@ object-assign
 @license MIT
 */
 
-/*!
- * 
- *   typed.js - A JavaScript Typing Animation Library
- *   Author: Matt Boldt <me@mattboldt.com>
- *   Version: v2.0.12
- *   Url: https://github.com/mattboldt/typed.js
- *   License(s): MIT
- * 
- */
-
 /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /**
